@@ -1,4 +1,4 @@
-# Arkonaid_Game
+# Arkanoid_Game
 
 The game should be simple and easy to use with the help of two arrow keys on the keyboard - left and right. 
 Application can be able to keep scores of users and store them on a file.
